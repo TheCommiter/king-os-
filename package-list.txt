@@ -1,0 +1,5 @@
+plasma-desktop sddm dolphin konsole kate spectacle partitionmanager
+discover plasma-discover-backend-packagekit plasma-discover-backend-flatpak plasma-discover-backend-snap
+flatpak snapd
+plymouth-theme-kubuntu-logo
+ark firefox libreoffice thunderbird konversation neochat 
