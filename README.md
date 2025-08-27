@@ -1,1 +1,1 @@
-# king-os-
+# King OS cubic config
