@@ -1,0 +1,19 @@
+# Calamares branding descriptor
+
+# Which branding style to use (qt = QtQuick, usually default)
+style: qt
+
+# Strings shown in the installer
+strings:
+  productName: "King OS"
+  version: "f1.0.0"
+  shortVersion: "1.0 Fresh"
+  bootloaderEntryName: "YourOS"
+
+# Images to use
+images:
+  productLogo: "images/logo.png"      # appears in top-left
+  background: "images/wallpaper.png"     # full background
+
+# Slideshow
+slideshow: [  ]    # optional
