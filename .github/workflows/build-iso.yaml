@@ -16,7 +16,7 @@ jobs:
             mtools isolinux syslinux-utils casper shim-signed linux-generic calamares lz4
       - name: Build ISO
         run: |
-          chmod +x scripts/build-iso.sh
+          chmod +x ../../scripts/build-iso.sh
           ./scripts/build-iso.sh
       - name: Upload ISO
         uses: actions/upload-artifact@v4
